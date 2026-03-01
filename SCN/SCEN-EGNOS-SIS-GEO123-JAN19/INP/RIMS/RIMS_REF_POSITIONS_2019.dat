@@ -1,0 +1,54 @@
+# RIMS Parameters
+#-------------------------------------------
+# p1:  Selection flag [0:OFF/1:ON]
+# p2:  Station Name Acronym [%4s]
+# p3:  Station Number ID [%2d]
+# p4:  Longitude [deg]
+# p5:  Latitude [deg]
+# p6:  Height [meters]
+# p7:  Mask Angle [deg]
+# p8:  Acquisition Time [minutes]
+# p9:  Site [%s]
+# p10: Country [%s]
+#------------------------------------------------------------------------------------------------------------------------
+# p1 |   p2   | p3 |        p4       |       p5       |    p6    |    p7   |   p8  |        p9           |      p10 
+#------------------------------------------------------------------------------------------------------------------------
+   1     ABSA   01      31.6168738      22.3584909      199.489      10.00     5           Abu-Simbel                Egypt
+   1     ACRA   02     -28.6228066      38.5186833      198.582      10.00     5               Azores             Portugal
+   1     ALBA   03       9.8831919      57.0963560       42.678      10.00     5               Alborg              Denmark
+   1     ALYA   04      29.9557435      31.1829123       12.531      10.00     5           Alexandria                Egypt
+   1     ATHA   05      23.7911121      37.8612226      368.684      10.00     5               Athens               Greece
+   1     BRNA   06      13.5410936      52.3569463       83.432      10.00     5                Berna          Switzerland
+   1     CNRA   07     -15.3793852      27.9454109       51.123      10.00     5               Canary                Spain
+   1     CRKA   08      -8.4962089      51.8446852      201.929      10.00     5                 Cork              Ireland
+   1     CTNA   09      15.0619850      37.4636507       47.297      10.00     5              Catania                Italy
+   1     DJAA   10      10.7717472      33.8801909       36.873      10.00     5               Djerba              Tunisia
+   1     EGIA   11     -14.4007338      65.2800856       89.528      10.00     5          Egilsstadir               Island
+   1     GLGA   12      -4.4456436      55.8706262       64.261      10.00     5              Glasgow              Ireland
+   1     GOLA   13      32.8035793      39.6381446     1088.564      10.00     5              Golbasi               Turkey
+   1     GVLA   14      17.1331590      60.6663660       53.299      10.00     5                Gavle              Sweeden
+   1     JMEA   15      -8.4915201      70.9728644       63.463      10.00     5            Jan-Mayen               Norway
+   1     KIRA   16      29.9313365      69.7311459      119.770      10.00     5             Kirkenes               Norway
+   1     LAPA   17      27.5553483      60.5388860       35.773      10.00     5         Lappeenranta              Finland
+   1     LPIA   18     -17.7603716      28.6196424      137.719      10.00     5              LaPalma                Spain
+   1     LSBA   19      -9.1298707      38.7887635      157.600      10.00     5               Lisbon             Portugal
+   1     LYRA   20      15.3965961      78.2285265      496.566      10.00     5             Svalbard               Norway
+   1     MADA   21     -16.7056705      32.7474268      192.855      10.00     5              Madeira             Portugal
+   1     MLGA   22      -4.5144494      36.6846957       60.881      10.00     5               Malaga                Spain
+   1     PARA   23       2.3349038      48.8359007      123.380      10.00     5                Paris               France
+   1     PDMA   24       2.7387532      39.5636956       51.540      10.00     5             Mallorca                Spain
+   1     RKKA   25     -21.9315020      64.1292866       83.945      10.00     5            Reykjavik               Island
+   1     ROMA   26      12.5837594      41.8039468      172.877      10.00     5                 Rome                Italy
+   1     SDCA   27      -8.4248159      42.9264046      437.005      10.00     5             Santiago                Spain
+   1     SOFA   28      23.4101179      42.6848906      611.360      10.00     5                Sofia             Bulgaria
+   1     SWAA   29      -1.2869796      50.8871205       76.428      10.00     5             Swanwich              England
+   1     TLSA   30       1.4970244      43.4285678      253.477      10.00     5             Toulouse               France
+   1     TRDA   31      10.8993146      63.4568329       43.875      10.00     5            Trondheim               Norway
+   1     TROA   32      18.9390987      69.6631570      136.126      10.00     5              Tromsoe               Norway
+   1     WRSA   33      21.0676369      52.2147521      125.452      10.00     5               Warsaw               Poland
+   1     ZURA   34       8.5648888      47.4537484      514.795      10.00     5               Zurich          Switzerland
+   1     NOUA   35     -15.9544648      18.0818926       35.278      10.00     5           Nouakchott           Mauritania
+   1     HFAA   36      35.0220640      32.7789087      239.597      10.00     5                Haifa               Israel
+   1     AGAA   37      -9.4115837      30.3185120      119.179      10.00     5               Agadir              Morocco
+   1     HBKA   38      27.7071958     -25.8833373     1548.973      10.00     5       Hartebeesthoek          SouthAfrica
+   1     MONA   39     -64.7692785      46.0711908       31.816      10.00     5              Moncton               Canada
